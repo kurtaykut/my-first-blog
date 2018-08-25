@@ -27,7 +27,7 @@ SECRET_KEY = 'z4c$+*e_^ky4j1xtb8n9+teq9e!*32@7d(8y!2@&dr^d#jmb9c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost','127.0.0.1']
+ALLOWED_HOSTS = ['localhost','127.0.0.1','kudret.pythonanywhere.com']
 
 
 # Application definition
